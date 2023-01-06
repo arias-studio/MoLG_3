@@ -1,0 +1,9 @@
+.DS_store
+.vscode/
+design/
+.vscode/browse.db
+.vscode/browse.db-shm
+.vscode/browse.db-wal
+*.db
+*.db-shm
+*.db-wal
